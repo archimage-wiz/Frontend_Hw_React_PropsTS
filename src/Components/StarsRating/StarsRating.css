@@ -1,0 +1,9 @@
+
+
+.stars_rating {
+    display: inline-block;
+    margin: 5px;
+    padding: 5px;
+    background-color: hsla(230, 20%, 59%, 0.607);
+    border-radius: 50px;
+}
